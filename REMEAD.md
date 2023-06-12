@@ -12,7 +12,7 @@
 
 请将webshell文件放在脚本同目录，命名为gsl.jsp，一定是gsl.jsp，如果不是，请更改py脚本的62行与88行的名字
 
-![image-20230520213631492](C:\Users\liwei\AppData\Roaming\Typora\typora-user-images\image-20230520213631492.png)
+
 
 因为是打开本地文件，所以名字必须要正确，然后运行脚本即可
 
