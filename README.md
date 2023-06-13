@@ -12,12 +12,12 @@
 
 单个url：
 
-python3 hikvisionexp.py -u http://xx.xx.xx.xx
+python3 hikvision-ivms-exp.py -u http://xx.xx.xx.xx
 
 只要ip和端口，不要添加其他路径
 
 多个url
 
-python3 hikvisionexp.py -f file.txt
+python3 hikvision-ivms-exp.py -f file.txt
 
 file.txt存放的是url
